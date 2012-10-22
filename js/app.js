@@ -1,1 +1,3 @@
 // JavaScript Document
+
+$( "#draggable" ).draggable();
